@@ -3,7 +3,7 @@
 
 ![alt text](https://i.imgur.com/4ESTZg9.png 'harry potter books')
 
-Deployed Page: https://googlethesebooks.herokuapp.com/
+Deployed Page: [here](https://googlethesebooks.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
